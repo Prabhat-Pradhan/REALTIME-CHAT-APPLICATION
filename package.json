@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "PRABHAT",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
